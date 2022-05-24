@@ -781,6 +781,7 @@ a:hover {
 .about-container {
   background-color: #f8f5f5;
   border-radius: 15px;
+  background-image: url(../img/);
 }
 
 .about-title {
@@ -1290,6 +1291,8 @@ footer .credits a {
   padding: 8px 8px ;
   margin-bottom: 20px;
 }
+
+
 
 .my-form {
   border-radius: 15px;
